@@ -16,8 +16,8 @@
             <div class="column is-5 is-offset-1 landing-caption">
 
                 <figure class="image block">
-                {{- $img := resources.Get $imageLeft -}}
-                <img src="{{- $img.Permalink | relURL -}}"
+                {{- $imgLeft := resources.Get $imageLeft -}}
+                <img src="{{- $imgLeft.Permalink | relURL -}}"
                      style="width:{{- .Site.Params.homepage.imageWidthLeft -}}" alt="Myself">
                 </figure>
 
@@ -59,8 +59,8 @@
             </div>
             <div class="column is-5 is-offset-1 content">
                 <figure class="image">
-                {{- $img := resources.Get $imageRight -}}
-                <img src="{{- $img.Permalink | relURL -}}"
+                {{- $imgRight := resources.Get $imageRight -}}
+                <img src="{{- $imgRight.Permalink | relURL -}}"
                      style="width:{{- .Site.Params.homepage.imageWidthRight -}}" alt="Myself">
                 </figure>
 
