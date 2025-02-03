@@ -8,16 +8,15 @@
         {{- $homepage   := .Site.Params.homepage -}}
         {{- $title      := index $homepage "title" -}}
         {{- $subtitle   := index $homepage "subtitle" -}}
-        {{- $imageLeft      := index $homepage "imageLeft" -}}
-        {{- $imageRight      := index $homepage "imageRight" -}}
+        <!-- {{- $imageLeft      := index $homepage "imageLeft" -}}
+        {{- $imageRight      := index $homepage "imageRight" -}} -->
         <div class="hero-body">
         <div class="container">
             <div class="columns is-vcentered">
             <div class="column is-5 is-offset-1 landing-caption">
 
                 <figure class="image block">
-                {{- $imgLeft := resources.Get $imageLeft -}}
-                <img src="{{- $imgLeft.Permalink | relURL -}}"
+                <img src="{{- .Site.Params.homepage.imageLeft | absURL -}}"
                      style="width:{{- .Site.Params.homepage.imageWidthLeft -}}" alt="Myself">
                 </figure>
 
@@ -59,8 +58,7 @@
             </div>
             <div class="column is-5 is-offset-1 content">
                 <figure class="image">
-                {{- $imgRight := resources.Get $imageRight -}}
-                <img src="{{- $imgRight.Permalink | relURL -}}"
+                <img src="{{ .Site.Params.homepage.imageRight | absURL }}"
                      style="width:{{- .Site.Params.homepage.imageWidthRight -}}" alt="Myself">
                 </figure>
 
