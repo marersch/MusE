@@ -95,6 +95,18 @@
               </a>
             </li>
             {{ end }}
+            {{ if isset .Site.Params.footer.address "title" }}
+            <li>
+				<a href="">
+                <span class="icon"><i class="fab fa-pagelines"></i></span>
+                {{ if isset .Site.Params.footer.address "title" }}
+                  {{ .Site.Params.footer.address.title }}
+                {{ else }}
+                  Addresse
+                {{ end }}
+				</a>
+            </li>
+            {{ end }}
             {{ if isset .Site.Params.footer.facebook "link" }}
             <li>
               <a href="https://facebook.com/{{ .Site.Params.footer.facebook.link }}" target="_blank">

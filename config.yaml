@@ -118,7 +118,7 @@ params:
         list2:
           - "maßgeschneidert: von der ersten Idee bis zum fertigen Text"
           - "theatralisch, musikalisch, kulturell: Bühnenstücke, Liedtexte"
-      - description: Workshops
+      - description: "[Workshops](workshops/)"
         list2:
           - Philosophieren mit Kindern und Jugendlichen
           - kreatives Schreiben
@@ -148,6 +148,8 @@ params:
     email:
       link: marlene@erschbamer.net
       title: marlene@erschbamer.net
+    address:
+      title: Eggental - Südtirol/Italien
     # option to specify your linkedin profile in the footer
 
     # option to specify your facebook account in the footer;

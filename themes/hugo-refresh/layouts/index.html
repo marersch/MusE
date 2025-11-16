@@ -35,7 +35,7 @@
 				<ul class="">
 				  {{ range .Site.Params.homepage.list1 }}
 				  <li>
-					{{ .description }}
+					{{ .description | markdownify }}
 					<ul class="is-size-6">
 						{{ range .list2 }}
 						<li>
