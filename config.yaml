@@ -150,6 +150,12 @@ params:
       title: marlene@erschbamer.net
     address:
       title: Eggental - Südtirol/Italien
+    blog:
+      link: https://erinnermich.eu/
+      title: Frauen.schreiben.Geschichte.
+    fiona:
+      link: https://fiona-novale.erinnermich.eu/
+      title: "Roman: Zeitwunden"
     # option to specify your linkedin profile in the footer
 
     # option to specify your facebook account in the footer;

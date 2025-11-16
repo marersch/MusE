@@ -107,6 +107,22 @@
 				</a>
             </li>
             {{ end }}
+            {{ if isset .Site.Params.footer.blog "link" }}
+            <li>
+              <a href="{{ .Site.Params.footer.blog.link }}" target="_blank">
+                <span class="icon"><i class="fa fa-feather-pointed"></i></span>
+                  {{ .Site.Params.footer.blog.title }}
+              </a>
+            </li>
+            {{ end }}   
+            {{ if isset .Site.Params.footer.fiona "link" }}
+            <li>
+              <a href="{{ .Site.Params.footer.fiona.link }}" target="_blank">
+                <span class="icon"><i class="fa fa-explosion"></i></span>
+                  {{ .Site.Params.footer.fiona.title }}
+              </a>
+            </li>
+            {{ end }}   
             {{ if isset .Site.Params.footer.facebook "link" }}
             <li>
               <a href="https://facebook.com/{{ .Site.Params.footer.facebook.link }}" target="_blank">
