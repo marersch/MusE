@@ -102,9 +102,9 @@ params:
   homepage:
     # this options let you specify if you want a link to the homepage
     # it can be: "none", "menu", "footer" or "menu+footer"
-    # linkPosition: "footer"
+    linkPosition: "menu"
     # this options let you specify the text of the link to the homepage
-    # linkText: "Homepage"
+    linkText: "Home"
     # option to specify the title in the homepage
     title: Dr.phil. Marlene Erschbamer
     # option to specify the subtitle in the homepage
