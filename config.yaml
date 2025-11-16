@@ -131,7 +131,7 @@ params:
       Meine wichtigsten Werkzeuge sind: Staunen über das scheinbar Selbstverständliche, Offenheit,
       Lebensfreude.
     # option to specify image in the homepage
-    imageRight: "/images/marlene2022c.jpg" # worker.svg
+    imageRight: "/images/marlene2022c.JPG" # worker.svg
     imageLeft: "/images/MusE.me1.png" # worker.svg
     # option to specify the width of the image in the homepage
     imageWidthRight: 250px
@@ -147,7 +147,7 @@ params:
     # option to specify your contact email in the footer
     email:
       link: marlene@erschbamer.net
-      title: E-Mail
+      title: marlene@erschbamer.net
     # option to specify your linkedin profile in the footer
 
     # option to specify your facebook account in the footer;
