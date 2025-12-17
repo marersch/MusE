@@ -120,8 +120,9 @@ params:
           - "theatralisch, musikalisch, kulturell: Bühnenstücke, Liedtexte"
       - description: "[Workshops](workshops/)"
         list2:
+          - Herstory - Frauen schreiben Geschichte
           - Philosophieren mit Kindern und Jugendlichen
-          - kreatives Schreiben
+          - Kreatives Schreiben
           - Abenteuer Kultur
       - description: Korrekturlesen
     avatarCaption: >
