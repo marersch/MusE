@@ -18,25 +18,6 @@ Jedes Kind – egal, ob Junge oder Mädchen – braucht Heldinnen, zu denen es a
 .
 
 
-Meine Arbeit zeichnet sich durch eine seltene Kombination aus wissenschaftlicher Tiefe und didaktischer Flexibilität aus. Ich betrachte Bildung nicht als statische Informationsweitergabe, sondern als einen Übersetzungsprozess, den ich auf drei Ebenen beherrsche:
-
-
-
-##### 1. Für den Kindergarten: Die Entdecker-Ebene (Fantasie & Bewegung)
-Im Elementarbereich nutze ich meine Erfahrung als dreifache Mutter und Workshop-Leiterin, um „Herstory“ spürbar zu machen. Ich weiß, dass Bildung hier über die Sinne und das Spiel funktioniert. Ich übersetze komplexe Geschichten in einfache, kraftvolle Symbole und „geheime Missionen“, die Kinder in ihrem Selbstwert stärken.
-
-##### 2. Für die Grund- und Mittelschule: Die Abenteurer-Ebene (Wissen & Transfer)
-Ich verstehe es, den natürlichen Wissensdurst und den Gerechtigkeitssinn von Schulkindern zu nutzen. Ich vermittle nicht nur Fakten, sondern fördere durch fächerübergreifendes Denken die kritische Auseinandersetzung mit Geschichte und Klischees.
-
-##### 3. Für die Erwachsenenbildung: Die Reflexions-Ebene (Analyse & Diskurs)
-Als promovierte Kulturwissenschaftlerin mit langjähriger wissenschaftlichen Expertise agiere ich auf höchstem fachlichem Niveau. In der Arbeit mit Erwachsenen biete ich tiefgehende Analysen, ordne „Herstory“ in globale philosophische und historische Kontexte ein und rege zu einem gesellschaftskritischen Diskurs an. Mein Blog und meine Publikationen beweisen, dass ich Wissenschaft so aufbereiten kann, dass sie relevant und fesselnd bleibt.
-
-
-
-.
-
-
-
 ### Beispiele Workshops für Kinder und Jugendliche:
 
 * Heldinnen-Schatzsuche (Vorschulalter bzw. ab 6 Jahren)
@@ -53,6 +34,26 @@ Herstory, also die Einbeziehung weiblicher Perspektiven und Narrative, ist kein 
 
 
 Interesse? marlene@erschbamer.net
+
+
+.
+
+
+### Hintergrund
+
+Meine Arbeit zeichnet sich durch eine seltene Kombination aus wissenschaftlicher Tiefe und didaktischer Flexibilität aus. Ich betrachte Bildung nicht als statische Informationsweitergabe, sondern als einen Übersetzungsprozess, den ich auf drei Ebenen beherrsche:
+
+
+
+##### 1. Für den Kindergarten: Die Entdecker-Ebene (Fantasie & Bewegung)
+Im Elementarbereich nutze ich meine Erfahrung als dreifache Mutter und Workshop-Leiterin, um „Herstory“ spürbar zu machen. Ich weiß, dass Bildung hier über die Sinne und das Spiel funktioniert. Ich übersetze komplexe Geschichten in einfache, kraftvolle Symbole und „geheime Missionen“, die Kinder in ihrem Selbstwert stärken.
+
+##### 2. Für die Grund- und Mittelschule: Die Abenteurer-Ebene (Wissen & Transfer)
+Ich verstehe es, den natürlichen Wissensdurst und den Gerechtigkeitssinn von Schulkindern zu nutzen. Ich vermittle nicht nur Fakten, sondern fördere durch fächerübergreifendes Denken die kritische Auseinandersetzung mit Geschichte und Klischees.
+
+##### 3. Für die Erwachsenenbildung: Die Reflexions-Ebene (Analyse & Diskurs)
+Als promovierte Kulturwissenschaftlerin mit langjähriger wissenschaftlichen Expertise agiere ich auf höchstem fachlichem Niveau. In der Arbeit mit Erwachsenen biete ich tiefgehende Analysen, ordne „Herstory“ in globale philosophische und historische Kontexte ein und rege zu einem gesellschaftskritischen Diskurs an. Mein Blog und meine Publikationen beweisen, dass ich Wissenschaft so aufbereiten kann, dass sie relevant und fesselnd bleibt.
+
 
 
 .
